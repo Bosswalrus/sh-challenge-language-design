@@ -36,7 +36,7 @@ local spec = {
 	"test.compiler.visitors.ast-codegen-spec",
 	-- "test.compiler.parser-spec",
 	-- "test.compiler-spec",
-	-- "test.virtual-machine-spec"
+	"test.virtual-machine-spec"
 }
 
 --- @param ts test_suite
