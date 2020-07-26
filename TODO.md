@@ -1,11 +1,11 @@
 # TODO
-- [ ] SHLang specification
-	- [ ] contents
-	- [ ] introduction
-	- [ ] lexical structure
-	- [ ] variables
-	- [ ] functions
+- [x] SHLang specification
+	- [x] contents
+	- [x] introduction
+	- [x] lexical structure
+	- [x] variables
+	- [x] functions
 	- [ ] expressions
 	- [ ] statements
-	- [ ] execution
+	- [x] execution
 	- [ ] grammars
